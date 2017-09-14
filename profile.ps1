@@ -1,3 +1,4 @@
+# My profile functions
 Function Test-IsAdmin
 
 { <#
